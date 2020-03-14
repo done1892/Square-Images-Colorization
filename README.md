@@ -2,7 +2,7 @@
 
 This repo contains a project focused on the developing of a colorization system for images depicting cities squares. This project is under development. The idea is to produce two different models: the first based on an autoencoder structure and the second gans-based. 
 
-Now, i'm scraping data from internet to get more data as possible to train my models.
+Now, I'm scraping data from the internet to get more data as possible to train my models.
 
 ## Setup the deep learning environment
 
