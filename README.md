@@ -1,6 +1,6 @@
 # Square Images Colorization
 
-## This repo contains an example of an images colorization system for images depicting cities squares.
+This repo contains an example of an images colorization system for images depicting cities squares.
 
 ## Setup the virtual enviroment for the project
 
