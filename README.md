@@ -12,7 +12,7 @@ This repo contains an example of an images colorization system for images depict
 
 ## Install Pytorch.
 
-`$ conda install pytorch torchvision cudatoolkit=10.1 -c pytorch`
+`$ conda install pytorch torchvision cudatoolkit=10.0 -c pytorch`
 
 ## Change cudatoolkit preference if you have another version of CUDA. If you don't have gpu:
 
