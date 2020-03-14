@@ -1,24 +1,28 @@
 # Square Images Colorization
 
-This repo contains an example of an images colorization system for images depicting cities squares.
+This repo contains a project focused on the developing of a colorization system for images depicting cities squares. This project is under development. The idea is to produce two different models: the first based on an autoencoder structure and the second gans-based. 
 
-## Setup the virtual enviroment for the project
+Now, i'm scraping data from internet to get more data as possible to train my models.
+
+## Setup the deep learning environment
+
+### Setup the virtual environment for the project
 
 `$ conda create -n venv python=3.7.4 anaconda`
 
-## Add the virtualenv as a jupyter kernel
+### Add the virtualenv as a jupyter kernel
 
 `$ ipython kernel install --name "image_colorization" --user`
 
-## Install Pytorch.
+### Install Pytorch.
 
 `$ conda install pytorch torchvision cudatoolkit=10.0 -c pytorch`
 
-## Change cudatoolkit preference if you have another version of CUDA. If you don't have gpu:
+### Change cudatoolkit preference if you have another version of CUDA. If you don't have gpu:
 
 `$ conda install pytorch torchvision cpuonly -c pytorch`
 
-## Install requirements
+### Install requirements
 
 `$ pip install -r requirements.txt`
  
