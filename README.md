@@ -10,6 +10,14 @@
 
 `$ ipython kernel install --name "image_colorization" --user`
 
+## Install Pytorch.
+
+`$ conda install pytorch torchvision cudatoolkit=10.1 -c pytorch`
+
+## Change cudatoolkit preference if you have another version of CUDA. If you don't have gpu:
+
+`$ conda install pytorch torchvision cpuonly -c pytorch`
+
 ## Install requirements
 
 `$ pip install -r requirements.txt`
