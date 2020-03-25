@@ -25,6 +25,8 @@ Now, I'm scraping data from the internet to get more data as possible to train m
 ### Install requirements
 
 `$ pip install -r requirements.txt`
+
+#
  
 ## PROJECT ROADMAP
 
