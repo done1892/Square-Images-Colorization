@@ -3,3 +3,4 @@ imutils
 torch
 torchvision
 torchsummary
+pytorch-msssim==0.1.5
