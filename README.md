@@ -32,3 +32,9 @@ Now, I'm scraping data from the internet to get more data as possible to train m
 
 The first part of this project consists of "data acquisition" regarding images of cities squares. To this intend a script to scrape images from google image has been developed. Furthermore, [Instagram-Scraper](https://github.com/rarcega/instagram-scraper) has been used to get more data and search them by the hashtag. Hashtag searched are _piazzedimilano_, _piazzeditalia_ and _citysquares_.
 
+#
+
+## AutoEncoder Results
+
+
+
