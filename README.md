@@ -34,7 +34,7 @@ The first part of this project consists of "data acquisition" regarding images o
 
 #
 
-## AutoEncoder Results
+## - AutoEncoder Results
 
 
 
