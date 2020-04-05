@@ -36,5 +36,4 @@ The first part of this project consists of "data acquisition" regarding images o
 
 ## - AutoEncoder Results
 
-![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/autoencoders/AE299x299_weights_3.pth
-)
+![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/autoencoders/results_ae299x299_trainedmore2.png)
