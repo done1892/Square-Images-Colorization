@@ -2,8 +2,6 @@
 
 This repo contains a project focused on the developing of a colorization system for images depicting cities squares. This project is under development. The idea is to produce two different models: the first based on an autoencoder structure and the second gans-based. 
 
-Now, I'm scraping data from the internet to get more data as possible to train my models.
-
 ## Setup the deep learning environment
 
 ### Setup the virtual environment for the project
@@ -30,7 +28,8 @@ Now, I'm scraping data from the internet to get more data as possible to train m
  
 ## PROJECT ROADMAP
 
-The first part of this project consists of "data acquisition" regarding images of cities squares. To this intend a script to scrape images from google image has been developed. Furthermore, [Instagram-Scraper](https://github.com/rarcega/instagram-scraper) has been used to get more data and search them by the hashtag. Hashtag searched are _piazzedimilano_, _piazzeditalia_ and _citysquares_.
+The first part of this project consists of "data acquisition" regarding images of cities squares. To this intend a script to scrape images from google image has been developed.  
+Furthermore, [Instagram-Scraper](https://github.com/rarcega/instagram-scraper) has been used to get more data and search them by the hashtag. Hashtag searched are _piazzedimilano_, _piazzeditalia_ and _citysquares_.
 
 #
 
