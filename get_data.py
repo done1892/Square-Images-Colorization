@@ -1,10 +1,7 @@
 import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
 import os
 import shutil
 import re
-import json
 from requests import get
 from bs4 import BeautifulSoup
 from io import BytesIO
