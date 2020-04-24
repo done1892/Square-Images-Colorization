@@ -16,7 +16,7 @@ This repo contains a project focused on the developing of a colorization system 
 
 `$ conda install pytorch torchvision cudatoolkit=10.0 -c pytorch`
 
-### Change cudatoolkit preference if you have another version of CUDA. If you don't have gpu:
+### Change cudatoolkit preference if you have another CUDA version. If you don't have gpu:
 
 `$ conda install pytorch torchvision cpuonly -c pytorch`
 
