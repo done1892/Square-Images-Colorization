@@ -28,7 +28,10 @@ This repo contains a project focused on the developing of a colorization system 
  
 ## PROJECT ROADMAP
 
-The first part of this project consists of "data acquisition" regarding images of cities squares. To this intend a script to scrape images from google image has been developed.  
+The first part of this project consists of "data acquisition" regarding images of cities squares. To this intend a script to scrape images from google image has been developed. To use it, place get_data.py and url.yaml files in the same directory and specify the google image page url you intend to scrape in url.yaml.
+
+`$ python get_data.py --dest_folder [name of destination folder]`
+
 Furthermore, [Instagram-Scraper](https://github.com/rarcega/instagram-scraper) has been used to get more data and search them by the hashtag. Hashtag searched are _piazzedimilano_, _piazzeditalia_ and _citysquares_.
 
 #
