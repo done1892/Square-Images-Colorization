@@ -42,4 +42,7 @@ Furthermore, [Instagram-Scraper](https://github.com/rarcega/instagram-scraper) h
 
 ## - Pix2pix
 
-The gan's based approch relies on **Pix2pix** architecture, following [this](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) implementation. 
+The gan's based approch relies on **Pix2pix** architecture, following [this](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) implementation. Other images have been captured with _Instagram scraper_ and added to the training dataset. 
+
+**Partial results:**
+
