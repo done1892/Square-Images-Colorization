@@ -1,7 +1,6 @@
 # Square Images Colorization
 
 This repo contains a project focused on the developing of a colorization system for images depicting cities squares. This project is under development. The idea is to produce two different models: the first based on an autoencoder structure and the second gans-based. 
-```
 
 ## Setup the deep learning environment
 
@@ -46,4 +45,6 @@ Furthermore, [Instagram-Scraper](https://github.com/rarcega/instagram-scraper) h
 The gan's based approch relies on **Pix2pix** architecture, following [this](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) implementation. Other images have been captured with _Instagram scraper_ and added to the training dataset. 
 
 **Partial results:**
+![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch037_real_A.png)
+![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch037_fake_B.png)
 
