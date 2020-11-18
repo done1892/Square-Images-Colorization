@@ -39,3 +39,7 @@ Furthermore, [Instagram-Scraper](https://github.com/rarcega/instagram-scraper) h
 ## - AutoEncoder Results
 
 ![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/autoencoders/results_ae299x299_trainedmore2.png)
+
+## - Pix2pix
+
+The gan's based approch relies on **Piz2pix** architecture
