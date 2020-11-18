@@ -2,9 +2,9 @@
 
 This repo contains a project focused on the developing of a colorization system for images depicting cities squares. This project is under development. The idea is to produce two different models: the first based on an autoencoder structure and the second gans-based. 
 
-## Setup the deep learning environment
-
 ---
+
+## Setup the deep learning environment
 
 ### Setup the virtual environment for the project
 
@@ -53,16 +53,30 @@ The gan's based approch relies on **Pix2pix** architecture, following [this](htt
 
 #
 
-![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch037_real_A.png)
-![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch037_fake_B.png)
+![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch059_real_A.png)
+![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch059_fake_B.png)
 
 #
 
-![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch037_real_A.png)
-![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch037_fake_B.png)
+![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch060_real_A.png)
+![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch060_fake_B.png)
 
 #
 
-![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch037_real_A.png)
-![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch037_fake_B.png)
+![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch061_real_A.png)
+![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch061_fake_B.png)
 
+#
+
+![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch062_real_A.png)
+![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch062_fake_B.png)
+
+#
+
+![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch065_real_A.png)
+![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch065_fake_B.png)
+
+#
+
+![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch066_real_A.png)
+![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch066_fake_B.png)
