@@ -42,4 +42,4 @@ Furthermore, [Instagram-Scraper](https://github.com/rarcega/instagram-scraper) h
 
 ## - Pix2pix
 
-The gan's based approch relies on **Piz2pix** architecture
+The gan's based approch relies on **Pix2pix** architecture, following ![this](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) implementation. 
