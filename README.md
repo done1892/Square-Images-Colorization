@@ -48,35 +48,4 @@ The gan's based approch relies on **Pix2pix** architecture, following [this](htt
 
 **Partial results after 66 epochs:**
 
-![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch037_real_A.png)
-![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch037_fake_B.png)
 
-#
-
-![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch059_real_A.png)
-![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch059_fake_B.png)
-
-#
-
-![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch060_real_A.png)
-![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch060_fake_B.png)
-
-#
-
-![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch061_real_A.png)
-![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch061_fake_B.png)
-
-#
-
-![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch062_real_A.png)
-![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch062_fake_B.png)
-
-#
-
-![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch065_real_A.png)
-![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch065_fake_B.png)
-
-#
-
-![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch066_real_A.png)
-![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/epoch066_fake_B.png)
