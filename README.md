@@ -49,3 +49,9 @@ The model has been trained for 105 epochs with a learning rate of 0.0002 and Ada
 Below, it's possible to look at some results:
 
 ![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/showres.jpg)
+
+The **Pix2pix** model has also been tested on the same images tested on **Autoencoder** previously developed.
+
+![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/showres2.jpg)
+
+Looking at these images we can say the the **Autoencoder** performs better on vintage photo while **Pix2pix** gets betters results, not only on cities squares images, but also on landscapes and so on, giving lively colors to the input.
