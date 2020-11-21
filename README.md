@@ -48,6 +48,4 @@ The gan's based approch relies on **Pix2pix** architecture, following [this](htt
 The model has been trained for 105 epochs with a learning rate of 0.0002 and Adam optimizer. For other training details, please refer to the original implementation.
 Below, it's possible to look at some results:
 
-![alt text](https://github.com/done1892/Square-Images-Colorization/tree/master/pix2pix/showres.jpg)
-
-
+![alt text](https://github.com/done1892/Square-Images-Colorization/blob/master/pix2pix/showres.jpg)
