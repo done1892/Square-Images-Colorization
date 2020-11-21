@@ -45,7 +45,9 @@ Furthermore, [Instagram-Scraper](https://github.com/rarcega/instagram-scraper) h
 ## - Pix2pix
 
 The gan's based approch relies on **Pix2pix** architecture, following [this](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) implementation. Other images have been captured with _Instagram scraper_ and added to the training dataset in order to improve the model generalization capability. 
+The model has been trained for 105 epochs with a learning rate of 0.0002 and Adam optimizer. For other training details, please refer to the original implementation.
+Below, it's possible to look at some results:
 
-**Partial results after 66 epochs:**
+![alt text](https://github.com/done1892/Square-Images-Colorization/tree/master/pix2pix/showres.jpg)
 
 
